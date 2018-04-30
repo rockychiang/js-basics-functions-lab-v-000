@@ -11,3 +11,5 @@ function distanceTravelledInFeet(start, destination) {
   distance = (destination - start) * 264
   return Math.abs(distance)
 }
+
+function 
