@@ -1,1 +1,3 @@
-fucntion distanceFromHqInBlocks
+fucntion distanceFromHqInBlocks(distance) {
+  
+}
