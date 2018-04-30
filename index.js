@@ -4,5 +4,5 @@ function distanceFromHqInBlocks(location) {
 }
 
 function distanceFromHqInFeet(location) {
-  
+  return distanceFromHqInBlocks(location) * 264
 }
