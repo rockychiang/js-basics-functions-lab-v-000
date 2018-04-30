@@ -1,1 +1,1 @@
-fucntion distanceFromHQ
+fucntion distanceFromHqInBlocks
